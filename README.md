@@ -8,7 +8,7 @@ My goals:
 - Recreate C certain standard library functions
 - Build the shell
 - Implement a simple file system
-- Implement my own intepreted language (Dosato)[https://github.com/Robotnik08/cdosato]
+- Implement my own intepreted language [Dosato](https://github.com/Robotnik08/cdosato)
 - Allow the user to load, make and run dosato programs
 
 ## Building
